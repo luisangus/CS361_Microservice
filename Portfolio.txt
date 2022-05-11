@@ -1,0 +1,2 @@
+Total capital, Bank balance, Money Invested
+5000, 3000, 2000
