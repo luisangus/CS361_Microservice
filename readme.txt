@@ -1,4 +1,4 @@
-This python script uses matplotlib to generate the barchart. In order to use it this module needs to be installed.
+This python script uses matplotlib to generate the barchart. In order to use it this module needs to be installed. Use the following command to install the module.
 
 python -m pip install -U matplotlib
 
