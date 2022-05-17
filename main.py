@@ -2,14 +2,15 @@ if __name__ == '__main__':
     import matplotlib.pyplot as plt
     import os
     import sys
-
+    
+    ## we can take the input file path and output image path as argument when the microservice is called
     if len(sys.argv) == 2:
         pathOfTxtFile = sys.argv[1]
         pathOfImage = "image.jpg"  # saves to folder where microservice is located
     elif len(sys.argv) == 3:
         pathOfTxtFile = sys.argv[1]
         pathOfImage = sys.argv[2]
-    else:
+    else: ## if no arguments are passed then proceed with user interface
         ##Description of the microservice
         print("")
         print("\033[1;34;40m")    ## blue text
