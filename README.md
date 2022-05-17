@@ -1,4 +1,4 @@
-## Microservice to count rows
+## Microservice to plot the money invested in a portfolio
 __CS 361: Simple microservice created for Cameron Hollis by Luis Gonzalez__
 
 ### What the microservice does:
